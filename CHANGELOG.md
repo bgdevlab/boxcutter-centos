@@ -1,5 +1,46 @@
 # Changelog
 
+## 2.0.12 (2015-02-22)
+
+* Upgrade Docker to 1.10.1
+* Upgrade VirtualBox Guest Additions to 5.0.14
+* Upgrade Parallels tools to 11.1.3
+
+## 2.0.11 (2015-01-09)
+
+* Upgrade Parallels tools to 11.1.2
+
+## 2.0.10 (2015-12-30)
+
+* Add SELinux dependencies for 5.x & 6.x
+
+## 2.0.9 (2015-11-21)
+
+* Add CentOS 7.2 templates
+* Upgrade Docker to 1.9.1
+* Upgrade VMware tools to 10.0.5 for VMware Fusion 8.1.0
+* Upgrade Parallels tools to 11.1.1
+
+## 2.0.8 (2015-11-19)
+
+* Upgrade Parallels tools to 11.1.0
+* Upgrade Docker to 1.9.0
+
+## 2.0.7 (2015-11-12)
+
+* Upgrade VirtualBox guest additions to version 5.0.10
+
+## 2.0.6 (2015-11-01)
+
+* Upgrade VMware tools to 10.0.1 for VMware Fusion 8.0.2
+* Upgrade VirtualBox guest additions to version 5.0.8
+* Port improvements in structure/build parallelism from Ubuntu templates
+
+## 2.0.5 (2015-10-07)
+
+* Upgrade VirtualBox guest additions to version 5.0.6
+* Add an motd banner
+
 ## 2.0.4 (2015-09-30)
 
 * Upgrade VirtualBox guest additions to 5.0.4
